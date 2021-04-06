@@ -5,6 +5,7 @@
 // Hoera!
 // Hoera!
 // ==========================================
+console.log("Hoi, dit is een wijziging voor de pull reqeust :)")
 
 for (let i = 0; i < 3; i++) {
     console.log("Hoera!");
